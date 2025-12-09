@@ -1,3 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+project(remmina-plugin-anydesk)
 #     Project: Remmina Plugin Anydesk
 # Description: Remmina protocol plugin to launch an Anydesk connection.
 #      Author: Jose Riha <jose1711@gmail.com>
